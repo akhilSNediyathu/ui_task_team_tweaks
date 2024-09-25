@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:test/screen_main/widgets.dart';
+import 'package:test/screen_main/widgets/widgets.dart';
 
 
 List<String> filterSelections = [
